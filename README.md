@@ -1,5 +1,3 @@
-Sure, let's adjust the README content to specify that you're using a CSV file for the data extraction.
-
 # Time Series Analysis of Stock Market Prices for Apple, Amazon, Microsoft, and Google
 
 ## Overview
